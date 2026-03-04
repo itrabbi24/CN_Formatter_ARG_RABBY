@@ -1,4 +1,4 @@
-import 'package:cn_formatter_by_arg_rabbi/cn_formatter_by_arg_rabbi.dart';
+import 'package:cn_formatter_arg_rabby/cn_formatter_arg_rabby.dart';
 
 void main() {
   print('--- CN Formatter By ARG RABBI ---');

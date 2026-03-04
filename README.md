@@ -19,12 +19,12 @@ Run the following command in your terminal at the root of your project:
 
 **For Flutter projects:**
 ```bash
-flutter pub add cn_formatter_by_arg_rabbi
+flutter pub add cn_formatter_arg_rabbi
 ```
 
 **For pure Dart projects:**
 ```bash
-dart pub add cn_formatter_by_arg_rabbi
+dart pub add cn_formatter_arg_rabbi
 ```
 
 This will automatically add the latest version to your `pubspec.yaml` and run an implicit `pub get`.
@@ -35,7 +35,7 @@ Open your `pubspec.yaml` file and add the dependency manually:
 
 ```yaml
 dependencies:
-  cn_formatter_by_arg_rabbi: ^1.0.0
+  cn_formatter_arg_rabby: ^1.0.1
 ```
 
 Then, run:
@@ -51,12 +51,12 @@ flutter pub get
 To update to the latest version published on pub.dev, simply run:
 
 ```bash
-flutter pub upgrade cn_formatter_by_arg_rabbi
+flutter pub upgrade cn_formatter_arg_rabbi
 ```
 ## Usage
 
 ```dart
-import 'package:cn_formatter_by_arg_rabbi/cn_formatter_by_arg_rabbi.dart';
+import 'package:cn_formatter_arg_rabby/cn_formatter_arg_rabby.dart';
 
 void main() {
   var result = CnFormatter.normalize('12345..');
@@ -71,5 +71,5 @@ Developed by **[ARG RABBI](https://itrabbi24.github.io/)**
 Email: `itrabbi24@gmail.com`
 
 ### Links 
-- **Pub.dev:** [https://pub.dev/packages/cn_formatter_by_arg_rabbi](https://pub.dev/packages/cn_formatter_by_arg_rabbi)
-- **GitHub Repository:** [https://github.com/itrabbi24/cn_formatter_by_arg_rabbi](https://github.com/itrabbi24/cn_formatter_by_arg_rabbi)
+- **Pub.dev:** [https://pub.dev/packages/cn_formatter_arg_rabbi](https://pub.dev/packages/cn_formatter_arg_rabbi)
+- **GitHub Repository:** [https://github.com/itrabbi24/CN_Formatter_ARG_RABBY](https://github.com/itrabbi24/CN_Formatter_ARG_RABBY)
