@@ -1,6 +1,6 @@
 // This package is developed by ARG RABBI
 // Contact : https://itrabbi24.github.io/
-// Phone: 01955109710
+// Email: itrabbi24@gmail.com
 
 class CnFormatter {
   /// Normalizes a Consignment Note (CN) Number based on specific barcode patterns.
@@ -15,8 +15,8 @@ class CnFormatter {
       scanType = (readWhat == '1')
           ? "Sticker"
           : (readWhat == '0')
-              ? "Receipt"
-              : "HandType";
+          ? "Receipt"
+          : "HandType";
       inputValue = inputValue.substring(1);
     }
 

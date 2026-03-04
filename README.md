@@ -68,7 +68,7 @@ void main() {
 ## Additional information
 
 Developed by **[ARG RABBI](https://itrabbi24.github.io/)**  
-Phone: `+8801955109710`
+Email: `itrabbi24@gmail.com`
 
 ### Links 
 - **Pub.dev:** [https://pub.dev/packages/cn_formatter_by_arg_rabbi](https://pub.dev/packages/cn_formatter_by_arg_rabbi)
