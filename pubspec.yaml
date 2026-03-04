@@ -1,0 +1,11 @@
+name: cn_formatter_by_arg_rabbi
+description: "A package for Consignment Note (CN) Number formatting. Developed by ARG RABBI. Features dot-based normalization and length resolution."
+version: 1.0.0
+homepage: https://itrabbi24.github.io/
+repository: https://github.com/itrabbi24/cn_formatter_by_arg_rabbi # Update this to your real repository later
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  # No dependencies needed for pure Dart string logic

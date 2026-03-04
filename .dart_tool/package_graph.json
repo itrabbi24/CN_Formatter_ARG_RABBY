@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "cn_formatter_by_arg_rabbi"
+  ],
+  "packages": [
+    {
+      "name": "cn_formatter_by_arg_rabbi",
+      "version": "1.0.0",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}
