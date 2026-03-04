@@ -1,3 +1,8 @@
+## 1.0.2
+
+* Updated license to MIT in `pubspec.yaml`.
+* Standardized package name to lowercase in `pubspec.yaml`.
+
 ## 1.0.1
 
 * Updated documentation to include explicit installation and update instructions (`flutter pub add`, `dart pub add`, and `pub upgrade`).

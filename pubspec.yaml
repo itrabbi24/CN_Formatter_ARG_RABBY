@@ -1,8 +1,9 @@
 name: cn_formatter_arg_rabby
 description: "A package for Consignment Note (CN) Number formatting. Developed by ARG RABBI. Features dot-based normalization and length resolution."
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/itrabbi24/CN_Formatter_ARG_RABBY
 repository: https://github.com/itrabbi24/CN_Formatter_ARG_RABBY
+license: MIT
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
